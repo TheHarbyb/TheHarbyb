@@ -8,6 +8,7 @@ I'm an Aspiring Data Analyst with a background in Physics and now focused on usi
 
 ## Projects i've worked on;
 [Employee Dataset Analysis with Excel Formatting] (https://github.com/TheHarbyb/Employee-Dataset-Analysis-with-Excel-Formatting)
+
 [Superstore Sales Performance Analysis]. (https://github.com/TheHarbyb/Superstore-Sales-Performance-Analysis)
 
 ## Currently learning;
