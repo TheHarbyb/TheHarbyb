@@ -1,6 +1,6 @@
 # Hi there, I'm Habeeb👋
 
-I'm a network analyst and an Aspiring Data Analyst with a background in Physics and now focused on using data tools to solve practical analytic problems, creating dashboards, and data storytelling. 
+Network Analyst with a growing passion for data analytics. Skilled in network operations, troubleshooting, and system performance monitoring, while actively building data analysis skills using tools like Excel and Python. Enthusiastic about combining network knowledge with analytics to uncover insights and support smarter decision-making. 
 
 ## Tools I work with;
 -Microsoft Excel
