@@ -7,7 +7,7 @@ I'm an Aspiring Data Analyst with a background in Physics and now focused on usi
 -Google sheets
 
 ## Projects i've worked on;
-[Employee Dataset Analysis with Excel Formatting] (...)
+[Employee Dataset Analysis with Excel Formatting] (https://github.com/TheHarbyb/Employee-Dataset-Analysis-with-Excel-Formatting)
 
 ## Currently learning;
 -Advanced SQL
