@@ -1,6 +1,6 @@
 # Hi there, I'm Habeeb👋
 
-I'm an Aspiring Data Analyst with a background in Physics and now focused on using data to solve practical analytics, creating dashboards, and data storytelling. 
+I'm an Aspiring Data Analyst with a background in Physics and now focused on using data tools to solve practical analytic problems, creating dashboards, and data storytelling. 
 
 ## Tools I work with;
 -Microsoft Excel
@@ -8,6 +8,7 @@ I'm an Aspiring Data Analyst with a background in Physics and now focused on usi
 
 ## Projects i've worked on;
 [Employee Dataset Analysis with Excel Formatting] (https://github.com/TheHarbyb/Employee-Dataset-Analysis-with-Excel-Formatting)
+[Superstore Sales Performance Analysis]. (https://github.com/TheHarbyb/Superstore-Sales-Performance-Analysis/blob/main/TEAM%20B%20BEGINNERS%20(Fateemah_Stores_Analysis).xlsx)
 
 ## Currently learning;
 -Advanced SQL
